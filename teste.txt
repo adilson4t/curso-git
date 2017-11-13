@@ -25,3 +25,42 @@
 13/11/2017  14:32    <DIR>          refs
                5 arquivo(s)            379 bytes
                5 pasta(s)   155.350.859.776 bytes dispon°veis
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 0AE2-0AAB
+
+ Pasta de C:\Users\adilson4t
+
+13/11/2017  09:58    <DIR>          .
+13/11/2017  09:58    <DIR>          ..
+11/11/2017  13:29             1.002 .csslintrc
+11/11/2017  13:29             1.506 .eslintrc
+13/11/2017  09:58                83 .gitconfig
+27/04/2016  19:15    <DIR>          .oracle_jre_usage
+03/03/2017  13:25    <DIR>          .receitanet
+14/06/2016  09:04               218 .recently-used.xbel
+13/11/2017  07:40    <DIR>          .VirtualBox
+11/11/2017  13:37    <DIR>          .vscode
+24/03/2017  19:08               282 Ato penitencial.txt
+11/11/2017  13:29             2.754 coffeelint.json
+13/10/2017  09:16    <DIR>          Contacts
+12/11/2017  19:04    <DIR>          Desktop
+12/11/2017  08:50    <DIR>          Documents
+13/11/2017  19:03    <DIR>          Downloads
+19/12/2015  12:07    <DIR>          dwhelper
+13/10/2017  09:16    <DIR>          Favorites
+21/10/2014  21:03    <DIR>          Intel
+13/10/2017  09:16    <DIR>          Links
+23/12/2014  13:08            35.222 ListaNoScript122014.txt
+13/10/2017  09:16    <DIR>          Music
+05/10/2016  11:25    <DIR>          OneDrive
+10/02/2016  10:02               114 Pedais Efeitos.txt
+30/10/2017  11:46    <DIR>          Pictures
+13/10/2017  09:16    <DIR>          Saved Games
+13/10/2017  09:16    <DIR>          Searches
+15/09/2016  12:54    <DIR>          SmartScore
+06/12/2015  15:51    <DIR>          Tracing
+11/11/2017  13:29             1.803 tslint.json
+11/11/2017  13:35    <DIR>          Videos
+13/11/2017  07:39    <DIR>          VirtualBox VMs
+               9 arquivo(s)         42.984 bytes
+              23 pasta(s)   44.911.865.856 bytes dispon°veis
