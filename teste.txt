@@ -8,3 +8,20 @@
 13/11/2017  20:55                 0 teste.txt
                1 arquivo(s)              0 bytes
                2 pasta(s)   155.350.863.872 bytes dispon¡veis
+ O volume na unidade F ‚ DocumentosProgramas
+ O N£mero de S‚rie do Volume ‚ 10F7-F399
+
+ Pasta de F:\Treinamentos\git-course\.git
+
+13/11/2017  20:57                16 COMMIT_EDITMSG
+13/11/2017  14:32               130 config
+13/11/2017  14:32                73 description
+13/11/2017  14:32                23 HEAD
+13/11/2017  14:32    <DIR>          hooks
+13/11/2017  20:57               137 index
+13/11/2017  14:32    <DIR>          info
+13/11/2017  20:57    <DIR>          logs
+13/11/2017  20:57    <DIR>          objects
+13/11/2017  14:32    <DIR>          refs
+               5 arquivo(s)            379 bytes
+               5 pasta(s)   155.350.859.776 bytes dispon¡veis
